@@ -13,6 +13,9 @@ pytorch=2.0.1+cu117
 timm=0.9.7
 ```
 
+### Training and Testing
+TO DO
+
 
 ### Reference
 If you use this code or models in your research and find it helpful, please cite the following paper:
