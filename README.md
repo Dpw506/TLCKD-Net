@@ -4,7 +4,7 @@
 The official pytorch implementation of the paper "Transformer With Large Convolution Kernel Decoder Network for Salient Object Detection in Optical Remote Sensing Images", [CUIV](https://doi.org/10.1016/j.cviu.2023.103917),2024
 
 ### Network Architecture
-！[Pipeline Image](fig/pipeline.png)
+![Pipeline Image](fig/pipeline.png)
 
 ### Reference
 If you use this code or models in your research and find it helpful, please cite the following paper:
