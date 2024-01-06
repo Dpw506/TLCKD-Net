@@ -6,6 +6,14 @@ The official pytorch implementation of the paper "Transformer With Large Convolu
 ### Network Architecture
 <img src="fig/pipeline.png" width="80%">
 
+### Requirements
+```
+python=3.11.4
+pytorch=2.0.1+cu117
+timm=0.9.7
+```
+
+
 ### Reference
 If you use this code or models in your research and find it helpful, please cite the following paper:
 ```
