@@ -22,4 +22,4 @@ abstract = {Despite salient object detection in optical remote sensing images (O
 }
 ```
 If you encounter any problems with the code, want to report bugs, etc.
-
+Please contact me at lllmiemie@163.com or ligongyang@shu.edu.cn.
