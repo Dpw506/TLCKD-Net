@@ -15,6 +15,10 @@ timm=0.9.7
 
 ### Training and Testing
 The significantly detected results of our method on the two datasets are at EORSSD([Baidu](https://pan.baidu.com/s/1OI27aSpQ76aIqP_L94qNhw))(code:2024) and ORSSD([Baidu](https://pan.baidu.com/s/1Fza3qxqMErbZP6M2K2GoEA))(code:2024), respectively.
+Also, if you want to test our method, download the training weights here ([Baidu](https://pan.baidu.com/s/10g5UFdmLoY3dkaMbG3Rf_Q)) and create a new checkpoint's file (```checkpoint/```) folder to store the weights. Then run test.py as follows.
+```
+python test.py --checkpoint_dir ./checkpoint/TLKCDNet(EORSSD_ckp).pkl --imagenet_model ./ImgNet
+```
 
 ### Reference
 If you use this code or models in your research and find it helpful, please cite the following paper:
